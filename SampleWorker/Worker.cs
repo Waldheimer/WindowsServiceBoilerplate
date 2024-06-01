@@ -17,7 +17,18 @@ public class Worker : BackgroundService
             {
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
             }
-            await Task.Delay(1000, stoppingToken);
+            // wait for 5 minutes
+            await Task.Delay(60 * 5 * 1000, stoppingToken);
         }
+    }
+    public override Task StartAsync(CancellationToken cancellationToken)
+    {
+        _logger.LogInformation("Worker starting at: {time}", DateTimeOffset.Now);
+        return base.StartAsync(cancellationToken);
+    }
+    public override Task StopAsync(CancellationToken cancellationToken)
+    {
+        _logger.LogInformation($"Stop {DateTimeOffset.Now}");
+        return base.StopAsync(cancellationToken);
     }
 }

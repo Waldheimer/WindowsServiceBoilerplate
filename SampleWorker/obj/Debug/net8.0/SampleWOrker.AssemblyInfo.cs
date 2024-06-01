@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleWOrker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2609dd835e4997129036aef88bd4777b4d7eb9e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleWOrker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleWOrker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

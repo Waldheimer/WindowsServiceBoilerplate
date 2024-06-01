@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PgRatPuNIeozZ0i4RVg/rLfnEKF7qdCw0DRw77KuaCimrS73YfAkbinDEoUnYzHiS+VD8peOjKH92xcmsBckGA==",
+  "dgSpecHash": "CtGI82asnjPGttaGkcCajegp310pMqXIawUeXGJmoz2aVK6una+tgDumd1PJHDgn/66GAfrnO0ighxJ0lOizig==",
   "success": true,
   "projectFilePath": "D:\\!Portfolio\\WindowsServicesBoilerplate\\SampleWorker\\SampleWOrker.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.hosting\\8.0.0\\microsoft.extensions.hosting.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\8.0.0\\microsoft.extensions.hosting.windowsservices.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
@@ -31,10 +32,20 @@
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\serilog.extensions.hosting\\8.0.0\\serilog.extensions.hosting.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\serilog.extensions.logging\\8.0.0\\serilog.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512",
     "C:\\Users\\whm20\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\whm20\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+    "C:\\Users\\whm20\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.4\\microsoft.netcore.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\whm20\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x86.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }
